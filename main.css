@@ -1,0 +1,47 @@
+.circle{
+    margin: 3px;
+    width:41px;
+    height:41px;
+    border-radius:50%;
+    text-align: center;
+    font-size: 24px;
+    line-height: 41px;  /* 數字垂直置中用 高多少就多少px */
+    font-weight: bolder;
+    font-family: arial;
+    background-color: gold;
+}
+
+.redcir{
+    margin: 3px;
+    width:41px;
+    height:41px;
+    border-radius:50%;
+    text-align: center;
+    font-size: 24px;
+    line-height: 41px;  /* 數字垂直置中用 高多少就多少px */
+    font-weight: bolder;
+    font-family: arial;
+    background-color: #ff0000;
+    color:white;
+}
+
+
+.res {
+    color: #CC0000;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+div{
+    background-color: #FFFFCC;
+    width: 400px;
+    float: left;
+    height: 200px;
+}
+
+.dotted02 {
+    background: url(po.jpg) repeat-y 0px 0px;
+    height: 200px;
+    width: 2px;
+    float: left;
+}
